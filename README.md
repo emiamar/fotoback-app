@@ -2,7 +2,7 @@
 
 **iPhone photo backup with end-to-end encryption, built for parents.**
 
-[fotoback.app](https://fotoback.app) · [Join the beta (TestFlight)](https://testflight.apple.com/join/your-link-here) · [Follow updates](#)
+[fotoback.app](https://fotoback.app) · [Join the beta (TestFlight)](https://testflight.apple.com/join/VsZG8HWY) · [Follow updates](#)
 
 ---
 
@@ -82,7 +82,7 @@ Exact pricing will be published at App Store launch.
 
 Fotoback is currently in private beta on TestFlight.
 
-👉 **[Join the beta](https://testflight.apple.com/join/your-link-here)**
+👉 **[Join the beta](https://testflight.apple.com/join/VsZG8HWY)**
 
 Beta users get:
 - Free access to all features during the beta period
