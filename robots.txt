@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emiamar.github.io/fotoback-app/sitemap.xml
