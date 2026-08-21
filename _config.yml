@@ -1,2 +1,5 @@
+url: "https://emiamar.github.io"
+baseurl: "/fotoback-app"
+
 plugins:
   - jekyll-sitemap
